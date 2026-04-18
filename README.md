@@ -76,7 +76,7 @@ Currently:  "Pushing the boundaries of applied AI in vision and language"
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,sql&theme=dark" /><br/><br/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -85,7 +85,7 @@ Currently:  "Pushing the boundaries of applied AI in vision and language"
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 </td>
 
