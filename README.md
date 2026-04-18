@@ -76,7 +76,7 @@ Currently:  "Pushing the boundaries of applied AI in vision and language"
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript&theme=dark" /><br/><br/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
