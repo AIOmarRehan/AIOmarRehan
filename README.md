@@ -39,7 +39,7 @@ Specializations:
   - Full-Stack Web Development (Next.js, React, TypeScript, Firebase)
   - Model Deployment (Gradio, FastAPI, Docker, HuggingFace Spaces)
 
-Currently:  "Engineering AI and Software Solutions through Personal Projects"
+Currently:  "Pushing the boundaries of applied AI in vision and language"
 ```
 
 </td></tr>
@@ -54,58 +54,82 @@ Currently:  "Engineering AI and Software Solutions through Personal Projects"
 
 <table>
 <tr>
-<td align="center" width="25%">
-<br/>
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" /><br/>
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" /><br/>
-<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" /><br/>
-<br/>
 
-**AI / ML**
+<td align="center" width="25%" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px;">
 
-TensorFlow | PyTorch<br/>Keras | HuggingFace<br/>Scikit-learn | OpenCV
-<br/><br/>
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" /><br/><br/>
+
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+
 </td>
-<td align="center" width="25%">
-<br/>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" /><br/>
-<img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="48" /><br/>
-<img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="48" /><br/>
-<br/>
 
-**Languages**
+<td align="center" width="25%" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px;">
 
-Python | TypeScript<br/>JavaScript | HTML<br/>CSS | SQL
-<br/><br/>
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css&theme=dark" /><br/><br/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white"/>
+
 </td>
-<td align="center" width="25%">
-<br/>
-<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" /><br/>
-<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" /><br/>
-<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" /><br/>
-<br/>
 
-**Web and Cloud**
+<td align="center" width="25%" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px;">
 
-Next.js | React<br/>Firebase | Supabase<br/>Tailwind CSS | Vercel
-<br/><br/>
+### Web and Cloud
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,firebase&theme=dark" /><br/><br/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
 </td>
-<td align="center" width="25%">
-<br/>
-<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" /><br/>
-<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" /><br/>
-<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /><br/>
-<br/>
 
-**DevOps and Tools**
+<td align="center" width="25%" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px;">
 
-Docker | Git<br/>Gradio | FastAPI<br/>GitHub Actions | VS Code
-<br/><br/>
+### DevOps and Tools
+
+<img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" /><br/><br/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge&logo=gradio&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
 </td>
+
 </tr>
 </table>
 
 </div>
+
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -115,20 +139,25 @@ Docker | Git<br/>Gradio | FastAPI<br/>GitHub Actions | VS Code
 <div align="center">
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AIOmarRehan&show_icons=true&theme=transparent&bg_color=0d1117&border_color=4c1d95&icon_color=a78bfa&title_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&include_all_commits=true&count_private=true&hide_border=false&card_width=500&cache_seconds=1800" />
-  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AIOmarRehan&show_icons=true&theme=transparent&bg_color=0d1117&border_color=4c1d95&icon_color=a78bfa&title_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&include_all_commits=true&count_private=true&hide_border=false&card_width=500&cache_seconds=1800" alt="GitHub Stats"/>
-</picture>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIOmarRehan&theme=tokyonight&cache_seconds=60&v=2)
+
 <a href="https://github.com/AIOmarRehan">
-  <img width="49%" src="https://streak-stats.demolab.com?user=AIOmarRehan&theme=transparent&background=0d1117&border=4c1d95&stroke=a78bfa&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=f5f3ff&sideNums=f5f3ff&dates=8b949e&date_format=j%20M%5B%20Y%5D" alt="Streak Stats"/>
+  <img width="49%" 
+       src="https://github-readme-stats.vercel.app/api?username=AIOmarRehan&show_icons=true&theme=transparent&bg_color=0d1117&border_color=4c1d95&icon_color=a78bfa&title_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&include_all_commits=false&count_private=false&hide_border=false&cache_seconds=60" 
+       alt="GitHub Stats"/>
+
+<br/>
+
+</a>
+<a href="https://github.com/AIOmarRehan">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AIOmarRehan&background=0d1117&border=4c1d95&stroke=a78bfa&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=f5f3ff&sideNums=f5f3ff&dates=8b949e&date_format=j%20M%5B%20Y%5D" alt="Streak Stats"/>
 </a>
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AIOmarRehan&layout=donut-vertical&theme=transparent&bg_color=0d1117&border_color=4c1d95&title_color=a78bfa&text_color=c9d1d9&langs_count=8&hide_border=false&cache_seconds=1800" />
-  <img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AIOmarRehan&layout=donut-vertical&theme=transparent&bg_color=0d1117&border_color=4c1d95&title_color=a78bfa&text_color=c9d1d9&langs_count=8&hide_border=false&cache_seconds=1800" alt="Top Languages"/>
-</picture>
+<a href="https://github.com/AIOmarRehan">
+  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIOmarRehan&layout=donut-vertical&theme=transparent&bg_color=0d1117&border_color=4c1d95&title_color=a78bfa&text_color=c9d1d9&langs_count=8&hide_border=false" alt="Top Languages"/>
+</a>
 
 </div>
 
@@ -140,8 +169,19 @@ Docker | Git<br/>Gradio | FastAPI<br/>GitHub Actions | VS Code
   </a>
 </div>
 
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="center">
+
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AIOmarRehan&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AIOmarRehan&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AIOmarRehan&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AIOmarRehan&theme=tokyonight&utcOffset=4)
+
+</div>
 
 ## Featured Projects
 
@@ -221,7 +261,9 @@ Docker | Git<br/>Gradio | FastAPI<br/>GitHub Actions | VS Code
 &nbsp;
 <a href="mailto:ai.omar.rehan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 &nbsp;
-<a href="tel:+971509669311"><img src="https://img.shields.io/badge/+971_50_966_9311-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
+<a href="https://wa.me/971509669311">
+  <img src="https://img.shields.io/badge/+971_50_966_9311-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
 
 <br/><br/>
 
@@ -231,4 +273,5 @@ Docker | Git<br/>Gradio | FastAPI<br/>GitHub Actions | VS Code
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,20:7c3aed,40:4c1d95,60:1e1b4b,80:0f172a,100:0d1117&height=130&section=footer"/>
+<img width="100%" 
+src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,20:7c3aed,40:4c1d95,60:1e1b4b,80:0f172a,100:0d1117&height=130&section=footer&text=Engineering%20Ideas%20into%20Reality&fontSize=18&fontColor=c9d1d9&animation=fadeIn"/>
