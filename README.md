@@ -1,155 +1,172 @@
 <div align="center">
 
-<!-- REPLACE THIS with a professional banner image. Recommended tool: https://capsule-render.vercel.app -->
-<!-- Example usage below - paste this URL into your browser to preview, then save the image and upload it to your repo -->
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:6e40c9&height=220&section=header&text=Omar%20Rehan&fontSize=75&fontColor=e6edf3&fontAlignY=35&animation=fadeIn&desc=C%2B%2B%20Game%20Developer%20%7C%20Engine%20Architect%20%7C%20Graphics%20Programmer&descSize=18&descColor=8b949e&descAlignY=55"/>
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Omar%20Rehan&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descColor=c9d1d9)
+<!-- Animated Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8E%AE+Building+Game+Engines+from+Scratch;%F0%9F%94%A5+Crafting+Real-Time+Rendering+Pipelines;%F0%9F%9A%80+Pushing+Pixels+%26+Performance+to+the+Limit" alt="Typing SVG" /></a>
 
-<!-- TYPING ANIMATION - This works automatically via readme-typing-svg -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Vision+%7C+LLMs+%7C+Deep+Learning;React+%7C+Next.js+%7C+Node.js;Building+intelligent+systems+from+the+ground+up)](https://git.io/typing-svg)
+<!-- Profile Views Counter -->
+<br/>
+<img src="https://komarev.com/ghpvc/?username=Omar-Rehan&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS" alt="Profile Views"/>
+&nbsp;
+<a href="https://github.com/Omar-Rehan?tab=followers"><img src="https://img.shields.io/github/followers/Omar-Rehan?style=for-the-badge&color=6e40c9&labelColor=0d1117&logo=github&label=Followers" alt="Followers"/></a>
+&nbsp;
+<img src="https://img.shields.io/github/stars/Omar-Rehan?style=for-the-badge&color=6e40c9&labelColor=0d1117&logo=github&label=Total+Stars" alt="Stars"/>
 
 </div>
 
----
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## About
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 
-I am a Computer Science graduate from the Arab Academy for Science, Technology and Maritime Transport (AASTMT), with a focus on AI engineering and full stack development. My work spans computer vision systems, large language model pipelines, and production-grade web applications. I am currently based in Ajman, UAE, and actively seeking an AI Engineer or Data Scientist role.
+```yaml
+name: Omar Rehan
+location: Victoria, Canada 🇨🇦
+role: C++ Game Developer
+focus: Game Engines • Real-Time Rendering • Graphics Programming
 
----
+experience:
+  - Game Engine Development (Custom C++ Engines)
+  - Real-Time 3D Rendering & Shader Programming
+  - VR Development (HTC Vive, Google Cardboard)
+  - Competitive Programming & Algorithm Design
 
-## Technical Stack
+currently_building: "Next-gen rendering pipelines & game engines"
+fun_fact: "I debug shaders for fun 🎨"
+```
 
-<!-- ICONS NOTE: These badges are auto-generated. No setup needed. -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**AI and Machine Learning**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4326?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Full Stack**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Data and Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**Tools and Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-## Projects
-
-### Smart Classroom System
-**Project Lead | AASTMT**
-
-An end-to-end AI-powered classroom automation system built as a capstone project. The system uses YOLO-based detection to monitor classroom occupancy and automatically controls physical devices including air conditioning, lighting, and other connected hardware. A Flutter mobile application provides remote control and monitoring.
-
-- Real-time object detection with YOLO
-- Raspberry Pi and IoT sensor integration
-- Automated device control (AC, lighting)
-- Flutter mobile application for remote management
-
----
-
-### Computer Vision and Classification Systems
-
-A series of deep learning projects covering image classification, audio classification, and object detection. Models were built using TensorFlow and PyTorch, with transfer learning applied to adapt pre-trained vision-language models for specific tasks. Work included full pipelines from raw data preprocessing and augmentation through to model optimization and evaluation.
-
----
-
-### Multimodal and LLM Pipelines
-
-Designed and implemented multimodal pipelines using LLaMA and Qwen models. Applied parameter-efficient fine-tuning (PEFT) techniques to adapt large models with minimal compute overhead. Delivered image-to-text and vision-language applications as practical outputs.
-
----
-
-### Full Stack Web Applications
-
-**Portfolio Website** - Personal site built with Supabase as the backend, deployed on Vercel.
-
-**Finance Tracker** - A web application for personal finance tracking, built on Firebase.
-
-**DevOps Monitoring Dashboard** - A unified dashboard aggregating data from GitHub repositories, Firebase projects, and Vercel deployments into a single operational view.
-
----
-
-## GitHub Stats
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AIOmarRehan&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AIOmarRehan&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+<!-- Languages -->
+<h4>⚡ Core Languages</h4>
+<img src="https://skillicons.dev/icons?i=cpp,c,cs,python,opengl&theme=dark&perline=5" />
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIOmarRehan&theme=tokyonight)
+<h4>🎮 Game Dev & Engines</h4>
+<img src="https://skillicons.dev/icons?i=unreal,unity,blender&theme=dark&perline=5" />
+
+<h4>🛠️ Tools & Platforms</h4>
+<img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,cmake,linux,windows&theme=dark&perline=7" />
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;GitHub Analytics
 
 <div align="center">
 
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AIOmarRehan&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AIOmarRehan&theme=tokyonight)
+<!-- GitHub Stats Card + Streak Stats side by side -->
+<a href="https://github.com/Omar-Rehan">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Omar-Rehan&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=6e40c9&title_color=6e40c9&text_color=8b949e&ring_color=6e40c9&include_all_commits=true&count_private=true&hide_border=false" alt="Omar's GitHub Stats"/>
+</a>
+<a href="https://github.com/Omar-Rehan">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Omar-Rehan&theme=github-dark-blue&background=0d1117&border=30363d&stroke=6e40c9&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=8b949e&currStreakNum=e6edf3&sideNums=e6edf3&dates=8b949e" alt="Omar's Streak Stats"/>
+</a>
+
+<br/>
+
+<!-- Top Languages Card -->
+<a href="https://github.com/Omar-Rehan">
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omar-Rehan&layout=donut-vertical&theme=github_dark&bg_color=0d1117&border_color=30363d&title_color=6e40c9&text_color=8b949e&langs_count=8&hide_border=false" alt="Top Languages"/>
+</a>
 
 </div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <a href="https://github.com/Omar-Rehan">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Omar-Rehan&bg_color=0d1117&color=6e40c9&line=6e40c9&point=e6edf3&area=true&area_color=6e40c9&hide_border=true&custom_title=Omar's%20Contribution%20Graph" alt="Contribution Graph"/>
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏗️ &nbsp;Featured Projects
 
 <div align="center">
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AIOmarRehan&theme=tokyonight)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AIOmarRehan&theme=tokyonight&utcOffset=4)
+<a href="https://github.com/Omar-Rehan/BreakEngine">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Rehan&repo=BreakEngine&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=6e40c9&title_color=6e40c9&description_color=8b949e&hide_border=false" alt="BreakEngine"/>
+</a>
+<a href="https://github.com/Omar-Rehan/2D_Platformer">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Rehan&repo=2D_Platformer&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=6e40c9&title_color=6e40c9&description_color=8b949e&hide_border=false" alt="2D Platformer"/>
+</a>
+<a href="https://github.com/Omar-Rehan/marsam">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Rehan&repo=marsam&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=6e40c9&title_color=6e40c9&description_color=8b949e&hide_border=false" alt="Marsam"/>
+</a>
+<a href="https://github.com/Omar-Rehan/RoomEscape">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Rehan&repo=RoomEscape&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=6e40c9&title_color=6e40c9&description_color=8b949e&hide_border=false" alt="RoomEscape"/>
+</a>
+<a href="https://github.com/Omar-Rehan/AttackOfTheStoneMonsters">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Rehan&repo=AttackOfTheStoneMonsters&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=6e40c9&title_color=6e40c9&description_color=8b949e&hide_border=false" alt="Attack of the Stone Monsters"/>
+</a>
+<a href="https://github.com/Omar-Rehan/SorceryBattles">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Omar-Rehan&repo=SorceryBattles&theme=github_dark&bg_color=0d1117&border_color=30363d&icon_color=6e40c9&title_color=6e40c9&description_color=8b949e&hide_border=false" alt="Sorcery Battles"/>
+</a>
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Certifications and Training
+## 🏆 &nbsp;GitHub Trophies
 
-| Program | Provider |
-|---|---|
-| AI Track | Digital Hub, Cairo |
-| IoT Track | Digital Hub, Cairo |
-| Soft Skills | HRDC Egypt |
-| Networking Fundamentals | Cisco Networking Academy |
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Omar-Rehan&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Awards
+## 🐍 &nbsp;Contribution Snake
 
-**Hult Prize Regional Finals Competitor** - Cairo Impact Summit, 2021
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Omar-Rehan/Omar-Rehan/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Omar-Rehan/Omar-Rehan/output/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Omar-Rehan/Omar-Rehan/output/github-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
 
-The Hult Prize is one of the world's largest student competitions for social entrepreneurship, organized in partnership with the United Nations.
+> 💡 *The snake animation requires a GitHub Action to generate. See the setup instructions below!*
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Connect
+## 📊 &nbsp;Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+🔧 Setting up WakaTime integration...
+```
+<!--END_SECTION:waka-->
+
+> 💡 *Connect [WakaTime](https://wakatime.com) + [waka-readme](https://github.com/athul/waka-readme) action for live coding stats!*
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🤝 &nbsp;Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/omar-rehan-47b98636a)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AIOmarRehan)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/aiomarrehan)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/AIOmarRehan)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ai.omar.rehan)
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://omar-rehan.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ai.omar.rehan@gmail.com)
+<a href="https://github.com/Omar-Rehan"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+&nbsp;
+<a href="mailto:ai.omar.rehan@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
-<!-- FOOTER WAVE - Auto-generated, no setup needed -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer)
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
+</div>
+
+<br/>
+
+<!-- Animated Footer Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:161b22,100:0d1117&height=120&section=footer"/>
