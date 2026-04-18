@@ -72,19 +72,29 @@ Currently:  "Pushing the boundaries of applied AI in vision and language"
 
 </td>
 
-<td align="center" width="25%" valign="top" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px;">
+<td align="center" valign="top" width="25%" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px;">
 
 ### Languages
 
-<div align="center" style="display:flex; flex-direction:column; align-items:center; justify-content:flex-start; gap:6px;">
+<div align="center">
 
+<!-- Icons row (keep 3 only for balance) -->
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript&theme=dark" />
+<br/><br/>
 
+<!-- Primary languages -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<br/>
 
+<!-- Secondary languages -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<br/>
+
+<!-- Added languages (balanced row) -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 </div>
 
