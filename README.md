@@ -93,15 +93,26 @@ Designed and implemented multimodal pipelines using LLaMA and Qwen models. Appli
 
 ## GitHub Stats
 
-<!-- STATS NOTE: Replace "AIOmarRehan" with your exact GitHub username if different -->
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AIOmarRehan&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AIOmarRehan&layout=compact&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIOmarRehan&theme=tokyonight)
+
+</div>
 
 <div align="center">
 
-![Omar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AIOmarRehan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AIOmarRehan&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AIOmarRehan&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AIOmarRehan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+</div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AIOmarRehan&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+<div align="center">
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AIOmarRehan&theme=tokyonight)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AIOmarRehan&theme=tokyonight&utcOffset=4)
 
 </div>
 
