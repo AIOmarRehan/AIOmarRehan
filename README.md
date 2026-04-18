@@ -72,17 +72,16 @@ Currently:  "Pushing the boundaries of applied AI in vision and language"
 
 </td>
 
-<td align="center" width="25%" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px; vertical-align: top;">
+<td align="center" width="25%" valign="top" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px;">
 
 ### Languages
 
-<div align="center">
+<div align="center" style="display:flex; flex-direction:column; align-items:center; justify-content:flex-start; gap:6px;">
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript&theme=dark" /><br/><br/>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript&theme=dark" />
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<br/>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
