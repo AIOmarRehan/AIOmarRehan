@@ -27,7 +27,7 @@
 Name:       Omar Rehan
 Location:   Dubai, United Arab Emirates
 Education:  B.Sc. Computer Science
-Role:       Full Stack & AI Engineer
+Role:       Aspiring AI Engineer
 Website:    omar-rehan.vercel.app
 Status:     Open to Work
 
@@ -55,64 +55,52 @@ Currently:  "Engineering AI and Software Solutions through Personal Projects"
 <table>
 <tr>
 <td align="center" width="25%">
-
-**AI / ML Frameworks**
-
+<br/>
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" /><br/>
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" /><br/>
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" /><br/>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+**AI / ML**
+
+TensorFlow | PyTorch<br/>Keras | HuggingFace<br/>Scikit-learn | OpenCV
 <br/><br/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
-
 </td>
 <td align="center" width="25%">
+<br/>
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" /><br/>
+<img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="48" /><br/>
+<img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="48" /><br/>
+<br/>
 
 **Languages**
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=python,typescript&theme=dark" />
+Python | TypeScript<br/>JavaScript | HTML<br/>CSS | SQL
 <br/><br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-
 </td>
 <td align="center" width="25%">
+<br/>
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" /><br/>
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" /><br/>
+<img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" /><br/>
+<br/>
 
 **Web and Cloud**
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=nextjs,react&theme=dark" />
+Next.js | React<br/>Firebase | Supabase<br/>Tailwind CSS | Vercel
 <br/><br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<br/>
-<img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
-
 </td>
 <td align="center" width="25%">
+<br/>
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" /><br/>
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" /><br/>
+<img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" /><br/>
+<br/>
 
 **DevOps and Tools**
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=docker,git&theme=dark" />
+Docker | Git<br/>Gradio | FastAPI<br/>GitHub Actions | VS Code
 <br/><br/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<br/>
-<img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-
 </td>
 </tr>
 </table>
@@ -127,18 +115,20 @@ Currently:  "Engineering AI and Software Solutions through Personal Projects"
 <div align="center">
 <br/>
 
-<a href="https://github.com/AIOmarRehan">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AIOmarRehan&show_icons=true&theme=transparent&bg_color=0d1117&border_color=4c1d95&icon_color=a78bfa&title_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&include_all_commits=true&count_private=true&hide_border=false&card_width=500" alt="GitHub Stats"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=AIOmarRehan&show_icons=true&theme=transparent&bg_color=0d1117&border_color=4c1d95&icon_color=a78bfa&title_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&include_all_commits=true&count_private=true&hide_border=false&card_width=500&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AIOmarRehan&show_icons=true&theme=transparent&bg_color=0d1117&border_color=4c1d95&icon_color=a78bfa&title_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&include_all_commits=true&count_private=true&hide_border=false&card_width=500&cache_seconds=1800" alt="GitHub Stats"/>
+</picture>
 <a href="https://github.com/AIOmarRehan">
   <img width="49%" src="https://streak-stats.demolab.com?user=AIOmarRehan&theme=transparent&background=0d1117&border=4c1d95&stroke=a78bfa&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=f5f3ff&sideNums=f5f3ff&dates=8b949e&date_format=j%20M%5B%20Y%5D" alt="Streak Stats"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/AIOmarRehan">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIOmarRehan&layout=donut-vertical&theme=transparent&bg_color=0d1117&border_color=4c1d95&title_color=a78bfa&text_color=c9d1d9&langs_count=8&hide_border=false" alt="Top Languages"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AIOmarRehan&layout=donut-vertical&theme=transparent&bg_color=0d1117&border_color=4c1d95&title_color=a78bfa&text_color=c9d1d9&langs_count=8&hide_border=false&cache_seconds=1800" />
+  <img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AIOmarRehan&layout=donut-vertical&theme=transparent&bg_color=0d1117&border_color=4c1d95&title_color=a78bfa&text_color=c9d1d9&langs_count=8&hide_border=false&cache_seconds=1800" alt="Top Languages"/>
+</picture>
 
 </div>
 
@@ -148,15 +138,6 @@ Currently:  "Engineering AI and Software Solutions through Personal Projects"
   <a href="https://github.com/AIOmarRehan">
     <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AIOmarRehan&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f5f3ff&area=true&area_color=4c1d95&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
   </a>
-</div>
-
-<br/>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AIOmarRehan&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=12&margin-h=12" alt="Trophies"/>
 </div>
 
 <br/>
@@ -224,13 +205,23 @@ Currently:  "Engineering AI and Software Solutions through Personal Projects"
 
 <div align="center">
 
-<a href="https://github.com/AIOmarRehan"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-&nbsp;&nbsp;
-<a href="https://omar-rehan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-&nbsp;&nbsp;
-<a href="mailto:ai.omar.rehan@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-&nbsp;&nbsp;
-<a href="https://huggingface.co/AIOmarRehan"><img src="https://img.shields.io/badge/HuggingFace-0d1117?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace"/></a>
+<a href="https://github.com/AIOmarRehan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+&nbsp;
+<a href="https://linkedin.com/in/omar-rehan-47b98636a"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+&nbsp;
+<a href="https://medium.com/@ai.omar.rehan"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+&nbsp;
+<a href="https://www.kaggle.com/aiomarrehan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
+&nbsp;
+<a href="https://huggingface.co/AIOmarRehan"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/></a>
+
+<br/><br/>
+
+<a href="https://omar-rehan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+&nbsp;
+<a href="mailto:ai.omar.rehan@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+&nbsp;
+<a href="tel:+971509669311"><img src="https://img.shields.io/badge/+971_50_966_9311-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/></a>
 
 <br/><br/>
 
