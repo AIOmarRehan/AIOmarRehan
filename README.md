@@ -81,7 +81,7 @@ Currently:  "Pushing the boundaries of applied AI in vision and language"
 <!-- Icons row (keep 3 only for balance) -->
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript&theme=dark" />
 <br/><br/>
-<br/><br/>
+<br/>
 
 <!-- Primary languages -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
