@@ -72,22 +72,22 @@ Currently:  "Pushing the boundaries of applied AI in vision and language"
 
 </td>
 
-<td align="center" width="25%" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px;">
+<td align="center" width="25%" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px; vertical-align: top;">
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,sql&theme=dark" /><br/><br/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript&theme=dark" /><br/><br/>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <br/>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<br/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</div>
 
 </td>
 
