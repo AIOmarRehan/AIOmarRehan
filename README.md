@@ -41,7 +41,7 @@ Specializations:
   - Full-Stack Web Development (Next.js, React, TypeScript, Firebase)
   - Model Deployment (Gradio, FastAPI, Docker, HuggingFace Spaces)
 
-Currently:  "Pushing the boundaries of applied AI in vision and language"
+Currently:  "Seeking opportunities while building AI and Full Stack projects"
 ```
 
 </td></tr>
