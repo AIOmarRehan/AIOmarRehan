@@ -185,7 +185,7 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 
 <div align="center">
 
-### 🔭 Computer Vision and Deep Learning
+### Computer Vision and Deep Learning
 
 <table>
 <tr>
@@ -252,7 +252,7 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 
 <br/>
 
-### 🧠 Vision-Language Models
+### Vision-Language Models
 
 <table>
 <tr>
@@ -279,7 +279,7 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 
 <br/>
 
-### 🌐 Full-Stack and Web Applications
+### Full-Stack and Web Applications
 
 <table>
 <tr>
