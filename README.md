@@ -80,22 +80,18 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 
 <div align="center">
 
-<!-- Icons row (keep 3 only for balance) -->
 <img src="https://skillicons.dev/icons?i=python,typescript,javascript&theme=dark" />
 <br/><br/>
 <br/>
 
-<!-- Primary languages -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <br/>
 
-<!-- Secondary languages -->
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <br/>
 
-<!-- Added languages (balanced row) -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <br/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -145,7 +141,6 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 
 </div>
 
-
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -154,48 +149,33 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 <div align="center">
 <br/>
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIOmarRehan&theme=tokyonight&cache_seconds=60&v=2)
-
+<!-- GitHub Trophies — replaces broken profile summary cards -->
 <a href="https://github.com/AIOmarRehan">
-  <img width="49%" 
-       src="https://github-readme-stats.vercel.app/api?username=AIOmarRehan&show_icons=true&theme=transparent&bg_color=0d1117&border_color=4c1d95&icon_color=a78bfa&title_color=a78bfa&text_color=c9d1d9&ring_color=7c3aed&include_all_commits=false&count_private=false&hide_border=false&cache_seconds=60" 
-       alt="GitHub Stats"/>
-
-<br/>
-
-</a>
-<a href="https://github.com/AIOmarRehan">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AIOmarRehan&background=0d1117&border=4c1d95&stroke=a78bfa&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=f5f3ff&sideNums=f5f3ff&dates=8b949e&date_format=j%20M%5B%20Y%5D" alt="Streak Stats"/>
+  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=AIOmarRehan&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
 </a>
 
 <br/><br/>
 
+<!-- Streak stats — migrated to demolab (working) -->
 <a href="https://github.com/AIOmarRehan">
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIOmarRehan&layout=donut-vertical&theme=transparent&bg_color=0d1117&border_color=4c1d95&title_color=a78bfa&text_color=c9d1d9&langs_count=8&hide_border=false" alt="Top Languages"/>
+  <img width="55%" src="https://streak-stats.demolab.com/?user=AIOmarRehan&background=0d1117&border=4c1d95&stroke=a78bfa&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=f5f3ff&sideNums=f5f3ff&dates=8b949e&date_format=j%20M%5B%20Y%5D" alt="Streak Stats"/>
 </a>
+
+<br/><br/>
+
+<!-- Reliable stat badges via shields.io -->
+<img src="https://img.shields.io/github/followers/AIOmarRehan?label=Followers&style=for-the-badge&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/stars/AIOmarRehan?label=Total%20Stars&style=for-the-badge&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa&affiliations=OWNER"/>
+
+<br/><br/>
 
 </div>
 
-<br/>
-
+<!-- Contribution activity graph (still working) -->
 <div align="center">
   <a href="https://github.com/AIOmarRehan">
     <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AIOmarRehan&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f5f3ff&area=true&area_color=4c1d95&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
   </a>
-</div>
-
-<div align="center">
-
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AIOmarRehan&theme=tokyonight)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AIOmarRehan&theme=tokyonight)
-
-</div>
-
-<div align="center">
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AIOmarRehan&theme=tokyonight)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AIOmarRehan&theme=tokyonight&utcOffset=4)
-
 </div>
 
 <br/>
@@ -205,54 +185,144 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 
 <div align="center">
 
-### Computer Vision and Deep Learning
+### 🔭 Computer Vision and Deep Learning
 
-<a href="https://github.com/AIOmarRehan/yolov8-obb-sar-vehicle-detection">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AIOmarRehan&repo=yolov8-obb-sar-vehicle-detection&theme=transparent&bg_color=0d1117&border_color=4c1d95&icon_color=a78bfa&title_color=a78bfa&description_color=8b949e&show_owner=true" alt="YOLOv8 OBB SAR Vehicle Detection"/>
-</a>
-<a href="https://github.com/AIOmarRehan/Brain-Tumor-Classification-with-Grad-CAM">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AIOmarRehan&repo=Brain-Tumor-Classification-with-Grad-CAM&theme=transparent&bg_color=0d1117&border_color=4c1d95&icon_color=a78bfa&title_color=a78bfa&description_color=8b949e&show_owner=true" alt="Brain Tumor Classification"/>
-</a>
-<a href="https://github.com/AIOmarRehan/ResNet50V2-Powered-COVID-19-Classification-on-Chest-X-ray-Images">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AIOmarRehan&repo=ResNet50V2-Powered-COVID-19-Classification-on-Chest-X-ray-Images&theme=transparent&bg_color=0d1117&border_color=4c1d95&icon_color=a78bfa&title_color=a78bfa&description_color=8b949e&show_owner=true" alt="COVID-19 X-Ray Classification"/>
-</a>
-<a href="https://github.com/AIOmarRehan/High-Accuracy-Cats-vs-Dogs-InceptionV3">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AIOmarRehan&repo=High-Accuracy-Cats-vs-Dogs-InceptionV3&theme=transparent&bg_color=0d1117&border_color=4c1d95&icon_color=a78bfa&title_color=a78bfa&description_color=8b949e&show_owner=true" alt="Cats vs Dogs InceptionV3"/>
-</a>
-<a href="https://github.com/AIOmarRehan/CNN_Autoencoder_For_Image_Denoising">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AIOmarRehan&repo=CNN_Autoencoder_For_Image_Denoising&theme=transparent&bg_color=0d1117&border_color=4c1d95&icon_color=a78bfa&title_color=a78bfa&description_color=8b949e&show_owner=true" alt="CNN Autoencoder Denoising"/>
-</a>
-<a href="https://github.com/AIOmarRehan/PyTorch_CNN_vs_Transformer_vs_Xception">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AIOmarRehan&repo=PyTorch_CNN_vs_Transformer_vs_Xception&theme=transparent&bg_color=0d1117&border_color=4c1d95&icon_color=a78bfa&title_color=a78bfa&description_color=8b949e&show_owner=true" alt="CNN vs Transformer vs Xception"/>
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4 align="center"><a href="https://github.com/AIOmarRehan/yolov8-obb-sar-vehicle-detection">YOLOv8 OBB SAR Vehicle Detection</a></h4>
+<p align="center">Oriented bounding box vehicle detection in SAR imagery using YOLOv8</p>
+<p align="center">
+<img src="https://img.shields.io/github/stars/AIOmarRehan/yolov8-obb-sar-vehicle-detection?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/forks/AIOmarRehan/yolov8-obb-sar-vehicle-detection?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/languages/top/AIOmarRehan/yolov8-obb-sar-vehicle-detection?style=flat-square&color=a78bfa&labelColor=0d1117"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h4 align="center"><a href="https://github.com/AIOmarRehan/Brain-Tumor-Classification-with-Grad-CAM">Brain Tumor Classification + Grad-CAM</a></h4>
+<p align="center">Deep learning model for brain tumor classification with Gradient-weighted Class Activation Mapping</p>
+<p align="center">
+<img src="https://img.shields.io/github/stars/AIOmarRehan/Brain-Tumor-Classification-with-Grad-CAM?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/forks/AIOmarRehan/Brain-Tumor-Classification-with-Grad-CAM?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/languages/top/AIOmarRehan/Brain-Tumor-Classification-with-Grad-CAM?style=flat-square&color=a78bfa&labelColor=0d1117"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4 align="center"><a href="https://github.com/AIOmarRehan/ResNet50V2-Powered-COVID-19-Classification-on-Chest-X-ray-Images">COVID-19 X-Ray Classification</a></h4>
+<p align="center">ResNet50V2-powered COVID-19 detection from chest X-ray images</p>
+<p align="center">
+<img src="https://img.shields.io/github/stars/AIOmarRehan/ResNet50V2-Powered-COVID-19-Classification-on-Chest-X-ray-Images?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/forks/AIOmarRehan/ResNet50V2-Powered-COVID-19-Classification-on-Chest-X-ray-Images?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/languages/top/AIOmarRehan/ResNet50V2-Powered-COVID-19-Classification-on-Chest-X-ray-Images?style=flat-square&color=a78bfa&labelColor=0d1117"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h4 align="center"><a href="https://github.com/AIOmarRehan/High-Accuracy-Cats-vs-Dogs-InceptionV3">Cats vs Dogs — InceptionV3</a></h4>
+<p align="center">High-accuracy image classifier using InceptionV3 transfer learning</p>
+<p align="center">
+<img src="https://img.shields.io/github/stars/AIOmarRehan/High-Accuracy-Cats-vs-Dogs-InceptionV3?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/forks/AIOmarRehan/High-Accuracy-Cats-vs-Dogs-InceptionV3?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/languages/top/AIOmarRehan/High-Accuracy-Cats-vs-Dogs-InceptionV3?style=flat-square&color=a78bfa&labelColor=0d1117"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4 align="center"><a href="https://github.com/AIOmarRehan/CNN_Autoencoder_For_Image_Denoising">CNN Autoencoder for Image Denoising</a></h4>
+<p align="center">Convolutional autoencoder architecture for removing noise from images</p>
+<p align="center">
+<img src="https://img.shields.io/github/stars/AIOmarRehan/CNN_Autoencoder_For_Image_Denoising?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/forks/AIOmarRehan/CNN_Autoencoder_For_Image_Denoising?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/languages/top/AIOmarRehan/CNN_Autoencoder_For_Image_Denoising?style=flat-square&color=a78bfa&labelColor=0d1117"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h4 align="center"><a href="https://github.com/AIOmarRehan/PyTorch_CNN_vs_Transformer_vs_Xception">CNN vs Transformer vs Xception</a></h4>
+<p align="center">Comparative study of CNN, Vision Transformer and Xception architectures in PyTorch</p>
+<p align="center">
+<img src="https://img.shields.io/github/stars/AIOmarRehan/PyTorch_CNN_vs_Transformer_vs_Xception?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/forks/AIOmarRehan/PyTorch_CNN_vs_Transformer_vs_Xception?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/languages/top/AIOmarRehan/PyTorch_CNN_vs_Transformer_vs_Xception?style=flat-square&color=a78bfa&labelColor=0d1117"/>
+</p>
+</td>
+</tr>
+</table>
 
 <br/>
 
-### Vision-Language Models
+### 🧠 Vision-Language Models
 
-<a href="https://github.com/AIOmarRehan/fine-tuning-qwen2-5-vl-astronomy">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AIOmarRehan&repo=fine-tuning-qwen2-5-vl-astronomy&theme=transparent&bg_color=0d1117&border_color=4c1d95&icon_color=a78bfa&title_color=a78bfa&description_color=8b949e&show_owner=true" alt="Fine-Tuning Qwen2.5-VL"/>
-</a>
-<a href="https://github.com/AIOmarRehan/Unsloth_Llama_3.2_11B_Vision_Instruct_Astronomy">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AIOmarRehan&repo=Unsloth_Llama_3.2_11B_Vision_Instruct_Astronomy&theme=transparent&bg_color=0d1117&border_color=4c1d95&icon_color=a78bfa&title_color=a78bfa&description_color=8b949e&show_owner=true" alt="Llama 3.2 Vision Fine-Tuning"/>
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4 align="center"><a href="https://github.com/AIOmarRehan/fine-tuning-qwen2-5-vl-astronomy">Fine-Tuning Qwen2.5-VL for Astronomy</a></h4>
+<p align="center">Fine-tuning Qwen2.5 Vision-Language model on astronomy domain data</p>
+<p align="center">
+<img src="https://img.shields.io/github/stars/AIOmarRehan/fine-tuning-qwen2-5-vl-astronomy?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/forks/AIOmarRehan/fine-tuning-qwen2-5-vl-astronomy?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/languages/top/AIOmarRehan/fine-tuning-qwen2-5-vl-astronomy?style=flat-square&color=a78bfa&labelColor=0d1117"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h4 align="center"><a href="https://github.com/AIOmarRehan/Unsloth_Llama_3.2_11B_Vision_Instruct_Astronomy">Llama 3.2 11B Vision — Astronomy</a></h4>
+<p align="center">Efficient fine-tuning of Llama 3.2 11B Vision Instruct with Unsloth on astronomy tasks</p>
+<p align="center">
+<img src="https://img.shields.io/github/stars/AIOmarRehan/Unsloth_Llama_3.2_11B_Vision_Instruct_Astronomy?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/forks/AIOmarRehan/Unsloth_Llama_3.2_11B_Vision_Instruct_Astronomy?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/languages/top/AIOmarRehan/Unsloth_Llama_3.2_11B_Vision_Instruct_Astronomy?style=flat-square&color=a78bfa&labelColor=0d1117"/>
+</p>
+</td>
+</tr>
+</table>
 
 <br/>
 
-### Full-Stack and Web Applications
+### 🌐 Full-Stack and Web Applications
 
-<a href="https://github.com/AIOmarRehan/My_Portfolio">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AIOmarRehan&repo=My_Portfolio&theme=transparent&bg_color=0d1117&border_color=4c1d95&icon_color=a78bfa&title_color=a78bfa&description_color=8b949e&show_owner=true" alt="Portfolio"/>
-</a>
-<a href="https://github.com/AIOmarRehan/RehanPulse">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AIOmarRehan&repo=RehanPulse&theme=transparent&bg_color=0d1117&border_color=4c1d95&icon_color=a78bfa&title_color=a78bfa&description_color=8b949e&show_owner=true" alt="RehanPulse"/>
-</a>
-<a href="https://github.com/AIOmarRehan/TerraExplorer">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AIOmarRehan&repo=TerraExplorer&theme=transparent&bg_color=0d1117&border_color=4c1d95&icon_color=a78bfa&title_color=a78bfa&description_color=8b949e&show_owner=true" alt="TerraExplorer"/>
-</a>
-<a href="https://github.com/AIOmarRehan/Finance-Tracker">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=AIOmarRehan&repo=Finance-Tracker&theme=transparent&bg_color=0d1117&border_color=4c1d95&icon_color=a78bfa&title_color=a78bfa&description_color=8b949e&show_owner=true" alt="Finance Tracker"/>
-</a>
+<table>
+<tr>
+<td width="50%" valign="top">
+<h4 align="center"><a href="https://github.com/AIOmarRehan/My_Portfolio">My Portfolio</a></h4>
+<p align="center">Personal portfolio website showcasing projects, skills and experience</p>
+<p align="center">
+<img src="https://img.shields.io/github/stars/AIOmarRehan/My_Portfolio?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/forks/AIOmarRehan/My_Portfolio?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/languages/top/AIOmarRehan/My_Portfolio?style=flat-square&color=a78bfa&labelColor=0d1117"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h4 align="center"><a href="https://github.com/AIOmarRehan/RehanPulse">RehanPulse</a></h4>
+<p align="center">A real-time pulse and activity monitoring web application</p>
+<p align="center">
+<img src="https://img.shields.io/github/stars/AIOmarRehan/RehanPulse?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/forks/AIOmarRehan/RehanPulse?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/languages/top/AIOmarRehan/RehanPulse?style=flat-square&color=a78bfa&labelColor=0d1117"/>
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h4 align="center"><a href="https://github.com/AIOmarRehan/TerraExplorer">TerraExplorer</a></h4>
+<p align="center">Interactive geospatial exploration and visualization web app</p>
+<p align="center">
+<img src="https://img.shields.io/github/stars/AIOmarRehan/TerraExplorer?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/forks/AIOmarRehan/TerraExplorer?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/languages/top/AIOmarRehan/TerraExplorer?style=flat-square&color=a78bfa&labelColor=0d1117"/>
+</p>
+</td>
+<td width="50%" valign="top">
+<h4 align="center"><a href="https://github.com/AIOmarRehan/Finance-Tracker">Finance Tracker</a></h4>
+<p align="center">Personal finance management app for tracking income, expenses and budgets</p>
+<p align="center">
+<img src="https://img.shields.io/github/stars/AIOmarRehan/Finance-Tracker?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/forks/AIOmarRehan/Finance-Tracker?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
+<img src="https://img.shields.io/github/languages/top/AIOmarRehan/Finance-Tracker?style=flat-square&color=a78bfa&labelColor=0d1117"/>
+</p>
+</td>
+</tr>
+</table>
 
 </div>
 
