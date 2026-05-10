@@ -185,7 +185,7 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 
 <div align="center">
 
-### 🔭 Computer Vision and Deep Learning
+### Computer Vision and Deep Learning
 
 <table>
 <tr>
