@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="467" height="165" viewBox="0 0 467 165">
+  <rect width="467" height="165" rx="6" fill="#282a36"/>
+  <text x="24" y="36" fill="#f8f8f2" font-family="Segoe UI, system-ui, sans-serif" font-size="18" font-weight="600">Most Used Languages</text>
+  <text x="24" y="72" fill="#bd93f9" font-family="Segoe UI, system-ui, sans-serif" font-size="14">Generated locally in this repo by Actions</text>
+  <text x="24" y="98" fill="#6272a4" font-family="Segoe UI, system-ui, sans-serif" font-size="13">Python · TypeScript · Jupyter Notebook · HTML</text>
+  <text x="24" y="130" fill="#a78bfa" font-family="Segoe UI, system-ui, sans-serif" font-size="12">Live language breakdown replaces this placeholder</text>
+</svg>
