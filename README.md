@@ -12,7 +12,7 @@
 &nbsp;&nbsp;
 <a href="https://github.com/AIOmarRehan?tab=followers"><img src="https://img.shields.io/github/followers/AIOmarRehan?style=for-the-badge&color=a78bfa&labelColor=0d1117&logo=github&label=Followers" alt="Followers"/></a>
 &nbsp;&nbsp;
-<img src="https://img.shields.io/github/stars/AIOmarRehan?style=for-the-badge&color=a78bfa&labelColor=0d1117&logo=github&label=Total+Stars" alt="Stars"/>
+<img src="./assets/github-stars.svg" alt="Total Stars"/>
 
 </div>
 
@@ -20,31 +20,44 @@
 
 <br/>
 
-<table align="center">
-<tr><td>
-
-### About
+<table align="center" width="100%">
+<tr>
+<td style="background-color: #0d1117; border: 1px solid #4c1d95; border-radius: 16px; padding: 20px;">
+<div style="display: flex; align-items: center; border-bottom: 1px solid #30363d; padding-bottom: 12px; margin-bottom: 16px;">
+  <span style="display: inline-block; width: 12px; height: 12px; border-radius: 50%; background-color: #ff5f56; margin-right: 8px;"></span>
+  <span style="display: inline-block; width: 12px; height: 12px; border-radius: 50%; background-color: #ffbd2e; margin-right: 8px;"></span>
+  <span style="display: inline-block; width: 12px; height: 12px; border-radius: 50%; background-color: #27c93f; margin-right: 16px;"></span>
+  <span style="color: #8b949e; font-family: monospace; font-size: 13px;">profile.yaml</span>
+</div>
 
 ```yaml
-Name:       Omar Rehan
-Location:   Dubai, United Arab Emirates
-Education:  B.Sc. Computer Science
-Role:       Aspiring AI Engineer
-Website:    omar-rehan.vercel.app
-Status:     Open to Work
+developer:
+  name: Omar Rehan
+  role: AI Engineer & Full-Stack Developer
+  location: Dubai, United Arab Emirates
+  education: B.Sc. Computer Science
+  website: omar-rehan.vercel.app
+  status: Open to Work / Seeking Opportunities
 
-Specializations:
-  - Deep Learning and Computer Vision (TensorFlow, PyTorch)
-  - Vision-Language Model Fine-Tuning (Qwen2.5-VL, Llama 3.2 Vision)
-  - Medical Image Analysis (Grad-CAM, Chest X-Rays, Brain MRI)
-  - Object Detection (YOLOv8-OBB, SAR Imagery)
-  - Full-Stack Web Development (Next.js, React, TypeScript, Firebase)
-  - Model Deployment (Gradio, FastAPI, Docker, HuggingFace Spaces)
+professional_summary: |
+  I am Omar Rehan, an AI Engineer and Full-Stack Developer based in Dubai, UAE.
+  I specialize in bridging the gap between deep learning models (Computer Vision,
+  Vision-Language models) and production-grade web applications.
 
-Currently:  "Seeking opportunities while building AI and Full Stack projects"
+core_principles_and_vision:
+  pragmatic_ai_deployment: |
+    I believe AI models must be packaged and deployed efficiently via FastAPI,
+    Docker, and HuggingFace Spaces to solve real-world problems.
+  deep_technical_specialization: |
+    Actively fine-tuning state-of-the-art models like Qwen2.5-VL and Llama 3.2 Vision
+    for niche applications including astronomy and satellite imagery classification.
+  clean_architecture_and_code: |
+    Whether training neural networks in PyTorch or building Next.js applications,
+    I write maintainable, clean code and design intuitive user interfaces.
 ```
 
-</td></tr>
+</td>
+</tr>
 </table>
 
 <br/>
@@ -165,7 +178,7 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 
 <!-- Reliable stat badges via shields.io -->
 <img src="https://img.shields.io/github/followers/AIOmarRehan?label=Followers&style=for-the-badge&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/stars/AIOmarRehan?label=Total%20Stars&style=for-the-badge&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa&affiliations=OWNER"/>
+<img src="./assets/github-stars.svg" alt="Total Stars"/>
 
 <br/><br/>
 
