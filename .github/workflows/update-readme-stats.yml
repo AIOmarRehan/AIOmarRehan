@@ -1,0 +1,84 @@
+name: Update GitHub Profile Stats
+
+on:
+  schedule:
+    # Run every 12 hours (at 00:00 and 12:00 UTC)
+    - cron: '0 */12 * * *'
+  workflow_dispatch: # Allows manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Contribution Snake Animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: AIOmarRehan
+          outputs: |
+            assets/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch and Validate Profile Stats
+        run: |
+          mkdir -p assets
+
+          # Helper function to check and save SVGs
+          fetch_svg() {
+            local file_path=$1
+            local url=$2
+            local label=$3
+            local temp_path="assets/temp-${file_path##*/}"
+
+            echo "Fetching $label..."
+            curl -s -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" -o "$temp_path" "$url"
+
+            # Check if file exists, is non-empty, contains "<svg", and does NOT contain error indicators
+            if [ -s "$temp_path" ] && \
+               ! grep -q -i -E "unable to select next github token|rate limit exceeded|something went wrong|502 bad gateway|504 gateway timeout" "$temp_path" && \
+               grep -q "<svg" "$temp_path"; then
+              mv "$temp_path" "$file_path"
+              echo "✅ Successfully updated $label"
+            else
+              echo "⚠️ Warning: $label download failed or returned rate-limit/token pool errors. Keeping existing cached version."
+              rm -f "$temp_path"
+            fi
+          }
+
+          # 1. Update Trophies
+          fetch_svg \
+            "assets/github-trophies.svg" \
+            "https://github-profile-trophy.vercel.app/?username=AIOmarRehan&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" \
+            "GitHub Trophies"
+
+          # 2. Update Streak Stats
+          fetch_svg \
+            "assets/github-streak-stats.svg" \
+            "https://streak-stats.demolab.com/?user=AIOmarRehan&background=0d1117&border=4c1d95&stroke=a78bfa&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=f5f3ff&sideNums=f5f3ff&dates=8b949e&date_format=j%20M%5B%20Y%5D" \
+            "Streak Stats"
+
+          # 3. Update Activity Graph
+          fetch_svg \
+            "assets/github-activity-graph.svg" \
+            "https://github-readme-activity-graph.vercel.app/graph?username=AIOmarRehan&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f5f3ff&area=true&area_color=4c1d95&hide_border=true&custom_title=Contribution%20Activity" \
+            "Activity Graph"
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add assets/
+          if git diff --staged --quiet; then
+            echo "No changes in SVG files detected. Skipping commit."
+          else
+            git commit -m "Update profile stats and snake animation [skip ci]"
+            git push
+          fi
