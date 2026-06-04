@@ -149,13 +149,6 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 <div align="center">
 <br/>
 
-<!-- GitHub Trophies — replaces broken profile summary cards -->
-<a href="https://github.com/AIOmarRehan">
-  <img width="96%" src="https://github-profile-trophy.vercel.app/?username=AIOmarRehan&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="GitHub Trophies"/>
-</a>
-
-<br/><br/>
-
 <!-- Streak stats — migrated to demolab (working) -->
 <a href="https://github.com/AIOmarRehan">
   <img width="55%" src="https://streak-stats.demolab.com/?user=AIOmarRehan&background=0d1117&border=4c1d95&stroke=a78bfa&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=f5f3ff&sideNums=f5f3ff&dates=8b949e&date_format=j%20M%5B%20Y%5D" alt="Streak Stats"/>
