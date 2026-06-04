@@ -202,7 +202,7 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 <h4 align="center"><a href="https://github.com/AIOmarRehan/Brain-Tumor-Classification-with-Grad-CAM">Brain Tumor Classification + Grad-CAM</a></h4>
 <p align="center">Deep learning model for brain tumor classification with Gradient-weighted Class Activation Mapping</p>
 <p align="center">
-<img src="https://badgen.net/github/stars/AIOmarRehan/Brain-Tumor-Classification-with-Grad-CAM" alt="Stars"/>
+<img src="https://img.shields.io/github/stars/AIOmarRehan/Brain-Tumor-Classification-with-Grad-CAM?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github"/>
 <img src="https://img.shields.io/github/forks/AIOmarRehan/Brain-Tumor-Classification-with-Grad-CAM?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
 <img src="https://img.shields.io/github/languages/top/AIOmarRehan/Brain-Tumor-Classification-with-Grad-CAM?style=flat-square&color=a78bfa&labelColor=0d1117"/>
 </p>
