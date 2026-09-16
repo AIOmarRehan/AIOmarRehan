@@ -57,7 +57,7 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 <table>
 <tr>
 
-<td align="center" width="25%" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px;">
+<td align="center" valign="top" width="20%" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px;">
 
 ### AI / ML
 
@@ -74,7 +74,21 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 
 </td>
 
-<td align="center" valign="top" width="25%" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px;">
+<td align="center" valign="top" width="20%" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px;">
+
+### Data Analysis
+
+<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,jupyter&theme=dark" alt="Data analysis tools" /><br/><br/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<br/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+
+</td>
+
+<td align="center" valign="top" width="20%" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px;">
 
 ### Languages
 
@@ -100,7 +114,7 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 
 </td>
 
-<td align="center" width="25%" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px;">
+<td align="center" valign="top" width="20%" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px;">
 
 ### Web and Cloud
 
@@ -117,7 +131,7 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 
 </td>
 
-<td align="center" width="25%" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px;">
+<td align="center" valign="top" width="20%" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px;">
 
 ### DevOps and Tools
 
@@ -147,28 +161,24 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 ## GitHub Analytics
 
 <div align="center">
-<br/>
 
-<!-- Streak stats — migrated to demolab (working) -->
+<!-- GitHub's own profile page is the source of truth for contribution activity.
+     Stable Shields.io badges are used here instead of third-party chart renderers. -->
 <a href="https://github.com/AIOmarRehan">
-  <img width="55%" src="https://streak-stats.demolab.com/?user=AIOmarRehan&background=0d1117&border=4c1d95&stroke=a78bfa&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=a78bfa&currStreakNum=f5f3ff&sideNums=f5f3ff&dates=8b949e&date_format=j%20M%5B%20Y%5D" alt="Streak Stats"/>
+  <img src="https://img.shields.io/badge/View%20GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Omar Rehan's GitHub profile"/>
 </a>
 
 <br/><br/>
 
-<!-- Reliable stat badges via shields.io -->
-<img src="https://img.shields.io/github/followers/AIOmarRehan?label=Followers&style=for-the-badge&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/stars/AIOmarRehan?label=Total%20Stars&style=for-the-badge&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa&affiliations=OWNER"/>
+<a href="https://github.com/AIOmarRehan?tab=followers">
+  <img src="https://img.shields.io/github/followers/AIOmarRehan?label=Followers&style=for-the-badge&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa" alt="GitHub followers"/>
+</a>
+<img src="https://img.shields.io/github/stars/AIOmarRehan?label=Total%20Stars&style=for-the-badge&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa&affiliations=OWNER" alt="Total repository stars"/>
 
 <br/><br/>
 
-</div>
+<p>Contribution activity and the contribution graph are available directly on my <a href="https://github.com/AIOmarRehan">GitHub profile</a>.</p>
 
-<!-- Contribution activity graph (still working) -->
-<div align="center">
-  <a href="https://github.com/AIOmarRehan">
-    <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AIOmarRehan&bg_color=0d1117&color=a78bfa&line=7c3aed&point=f5f3ff&area=true&area_color=4c1d95&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
-  </a>
 </div>
 
 <br/>
@@ -335,6 +345,8 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 <a href="https://www.kaggle.com/aiomarrehan"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 &nbsp;
 <a href="https://huggingface.co/AIOmarRehan"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/></a>
+&nbsp;
+<a href="https://public.tableau.com/app/profile/omar.rehan"><img src="https://img.shields.io/badge/Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public"/></a>
 
 <br/><br/>
 
