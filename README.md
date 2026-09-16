@@ -29,7 +29,7 @@
 Name:       Omar Rehan
 Location:   Dubai, United Arab Emirates
 Education:  B.Sc. Computer Science
-Role:       Aspiring AI Engineer
+Role:       AI and Full Stack Engineer
 Website:    omar-rehan.vercel.app
 Status:     Open to Work
 
@@ -79,9 +79,7 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 ### Data Analysis
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy icon"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas icon"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib icon"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter icon"/>
 <br/><br/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -203,7 +201,7 @@ The repositories below are grouped by their primary engineering focus and ordere
 |---|---|
 | [medtrace](https://github.com/AIOmarRehan/medtrace) | Longitudinal brain-MRI analysis with 3D SegResNet segmentation, registration, lesion matching, uncertainty, and evidence-linked timelines. |
 | [Fine-tuning Qwen2.5-VL for Astronomy](https://github.com/AIOmarRehan/fine-tuning-qwen2-5-vl-astronomy) | LoRA fine-tuning, 4-bit quantization, domain adaptation, and Gradio deployment for a vision-language model. |
-| [Llama 3.2 11B Vision — Astronomy](https://github.com/AIOmarRehan/Unsloth_Llama_3.2_11B_Vision_Instruct_Astronomy) | Efficient multimodal fine-tuning with Unsloth and LoRA on constrained GPU hardware. |
+| [Llama 3.2 11B Vision - Astronomy](https://github.com/AIOmarRehan/Unsloth_Llama_3.2_11B_Vision_Instruct_Astronomy) | Efficient multimodal fine-tuning with Unsloth and LoRA on constrained GPU hardware. |
 | [YOLOv8-OBB SAR Vehicle Detection](https://github.com/AIOmarRehan/yolov8-obb-sar-vehicle-detection) | Reproducible SAR-image detection with DOTA-to-YOLO conversion, oriented bounding boxes, evaluation, and Gradio inference. |
 | [Brain Tumor Classification + Grad-CAM](https://github.com/AIOmarRehan/Brain-Tumor-Classification-with-Grad-CAM) | Transfer learning, medical-image classification, evaluation metrics, and explainability with Grad-CAM. |
 | [COVID-19 Chest X-ray Classification](https://github.com/AIOmarRehan/ResNet50V2-Powered-COVID-19-Classification-on-Chest-X-ray-Images) | ResNet50V2 image classification with preprocessing, augmentation, evaluation, and interpretability. |
@@ -230,7 +228,7 @@ The repositories below are grouped by their primary engineering focus and ordere
 
 | Repository | What it demonstrates |
 |---|---|
-| [Cats vs Dogs — InceptionV3](https://github.com/AIOmarRehan/High-Accuracy-Cats-vs-Dogs-InceptionV3) | Transfer learning, EDA, robust `tf.data` preprocessing, and approximately 99% reported test accuracy. |
+| [Cats vs Dogs - InceptionV3](https://github.com/AIOmarRehan/High-Accuracy-Cats-vs-Dogs-InceptionV3) | Transfer learning, EDA, robust `tf.data` preprocessing, and approximately 99% reported test accuracy. |
 | [Animal Image Classification](https://github.com/AIOmarRehan/Animal-Image-Classification-Using-InceptionV3) | Image-quality checks for corrupted, duplicated, bright, and mislabeled samples before training. |
 | [CNN Autoencoder for Image Denoising](https://github.com/AIOmarRehan/CNN_Autoencoder_For_Image_Denoising) | U-Net-style convolutional autoencoder for denoising images before classification. |
 | [CNN vs Transformer vs Xception](https://github.com/AIOmarRehan/PyTorch_CNN_vs_Transformer_vs_Xception) | Comparative evaluation of a custom CNN, DeiT-Tiny, and Xception on vehicle data. |
