@@ -78,8 +78,6 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 
 ### Data Analysis
 
-<img src="https://skillicons.dev/icons?i=numpy,pandas,matplotlib,jupyter&theme=dark" alt="NumPy, Pandas, Matplotlib, and Jupyter icons" /><br/><br/>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <br/>
@@ -171,7 +169,19 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 
 <br/><br/>
 
-<p>See the complete contribution activity on my <a href="https://github.com/AIOmarRehan">GitHub profile</a>.</p>
+<a href="https://github.com/AIOmarRehan">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AIOmarRehan&theme=github_dark" alt="GitHub contribution and activity summary" width="100%" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/AIOmarRehan?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIOmarRehan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used programming languages" width="45%" />
+</a>
+
+<br/><br/>
+
+<p><strong>Top work:</strong> <a href="https://github.com/AIOmarRehan/medtrace">medtrace</a> · <a href="https://github.com/AIOmarRehan/RehanPulse">RehanPulse</a> · <a href="https://github.com/AIOmarRehan/ecommerce-sales-intelligence-dashboard">E-commerce Intelligence</a></p>
 
 </div>
 
@@ -180,148 +190,47 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 
 ## Featured Projects
 
-<div align="center">
+The repositories below are grouped by their primary engineering focus and ordered by portfolio value: production-oriented systems first, followed by focused research and learning projects.
 
-### Computer Vision and Deep Learning
+### AI Systems, Multimodal Models, and Medical Imaging
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h4 align="center"><a href="https://github.com/AIOmarRehan/yolov8-obb-sar-vehicle-detection">YOLOv8 OBB SAR Vehicle Detection</a></h4>
-<p align="center">Oriented bounding box vehicle detection in SAR imagery using YOLOv8</p>
-<p align="center">
-<img src="https://img.shields.io/github/stars/AIOmarRehan/yolov8-obb-sar-vehicle-detection?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/forks/AIOmarRehan/yolov8-obb-sar-vehicle-detection?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/languages/top/AIOmarRehan/yolov8-obb-sar-vehicle-detection?style=flat-square&color=a78bfa&labelColor=0d1117"/>
-</p>
-</td>
-<td width="50%" valign="top">
-<h4 align="center"><a href="https://github.com/AIOmarRehan/Brain-Tumor-Classification-with-Grad-CAM">Brain Tumor Classification + Grad-CAM</a></h4>
-<p align="center">Deep learning model for brain tumor classification with Gradient-weighted Class Activation Mapping</p>
-<p align="center">
-<img src="https://img.shields.io/github/stars/AIOmarRehan/Brain-Tumor-Classification-with-Grad-CAM?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github"/>
-<img src="https://img.shields.io/github/forks/AIOmarRehan/Brain-Tumor-Classification-with-Grad-CAM?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/languages/top/AIOmarRehan/Brain-Tumor-Classification-with-Grad-CAM?style=flat-square&color=a78bfa&labelColor=0d1117"/>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4 align="center"><a href="https://github.com/AIOmarRehan/ResNet50V2-Powered-COVID-19-Classification-on-Chest-X-ray-Images">COVID-19 X-Ray Classification</a></h4>
-<p align="center">ResNet50V2-powered COVID-19 detection from chest X-ray images</p>
-<p align="center">
-<img src="https://img.shields.io/github/stars/AIOmarRehan/ResNet50V2-Powered-COVID-19-Classification-on-Chest-X-ray-Images?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/forks/AIOmarRehan/ResNet50V2-Powered-COVID-19-Classification-on-Chest-X-ray-Images?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/languages/top/AIOmarRehan/ResNet50V2-Powered-COVID-19-Classification-on-Chest-X-ray-Images?style=flat-square&color=a78bfa&labelColor=0d1117"/>
-</p>
-</td>
-<td width="50%" valign="top">
-<h4 align="center"><a href="https://github.com/AIOmarRehan/High-Accuracy-Cats-vs-Dogs-InceptionV3">Cats vs Dogs — InceptionV3</a></h4>
-<p align="center">High-accuracy image classifier using InceptionV3 transfer learning</p>
-<p align="center">
-<img src="https://img.shields.io/github/stars/AIOmarRehan/High-Accuracy-Cats-vs-Dogs-InceptionV3?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/forks/AIOmarRehan/High-Accuracy-Cats-vs-Dogs-InceptionV3?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/languages/top/AIOmarRehan/High-Accuracy-Cats-vs-Dogs-InceptionV3?style=flat-square&color=a78bfa&labelColor=0d1117"/>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4 align="center"><a href="https://github.com/AIOmarRehan/CNN_Autoencoder_For_Image_Denoising">CNN Autoencoder for Image Denoising</a></h4>
-<p align="center">Convolutional autoencoder architecture for removing noise from images</p>
-<p align="center">
-<img src="https://img.shields.io/github/stars/AIOmarRehan/CNN_Autoencoder_For_Image_Denoising?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/forks/AIOmarRehan/CNN_Autoencoder_For_Image_Denoising?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/languages/top/AIOmarRehan/CNN_Autoencoder_For_Image_Denoising?style=flat-square&color=a78bfa&labelColor=0d1117"/>
-</p>
-</td>
-<td width="50%" valign="top">
-<h4 align="center"><a href="https://github.com/AIOmarRehan/PyTorch_CNN_vs_Transformer_vs_Xception">CNN vs Transformer vs Xception</a></h4>
-<p align="center">Comparative study of CNN, Vision Transformer and Xception architectures in PyTorch</p>
-<p align="center">
-<img src="https://img.shields.io/github/stars/AIOmarRehan/PyTorch_CNN_vs_Transformer_vs_Xception?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/forks/AIOmarRehan/PyTorch_CNN_vs_Transformer_vs_Xception?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/languages/top/AIOmarRehan/PyTorch_CNN_vs_Transformer_vs_Xception?style=flat-square&color=a78bfa&labelColor=0d1117"/>
-</p>
-</td>
-</tr>
-</table>
+| Repository | What it demonstrates |
+|---|---|
+| [medtrace](https://github.com/AIOmarRehan/medtrace) | Longitudinal brain-MRI analysis with 3D SegResNet segmentation, registration, lesion matching, uncertainty, and evidence-linked timelines. |
+| [Fine-tuning Qwen2.5-VL for Astronomy](https://github.com/AIOmarRehan/fine-tuning-qwen2-5-vl-astronomy) | LoRA fine-tuning, 4-bit quantization, domain adaptation, and Gradio deployment for a vision-language model. |
+| [Llama 3.2 11B Vision — Astronomy](https://github.com/AIOmarRehan/Unsloth_Llama_3.2_11B_Vision_Instruct_Astronomy) | Efficient multimodal fine-tuning with Unsloth and LoRA on constrained GPU hardware. |
+| [YOLOv8-OBB SAR Vehicle Detection](https://github.com/AIOmarRehan/yolov8-obb-sar-vehicle-detection) | Reproducible SAR-image detection with DOTA-to-YOLO conversion, oriented bounding boxes, evaluation, and Gradio inference. |
+| [Brain Tumor Classification + Grad-CAM](https://github.com/AIOmarRehan/Brain-Tumor-Classification-with-Grad-CAM) | Transfer learning, medical-image classification, evaluation metrics, and explainability with Grad-CAM. |
+| [COVID-19 Chest X-ray Classification](https://github.com/AIOmarRehan/ResNet50V2-Powered-COVID-19-Classification-on-Chest-X-ray-Images) | ResNet50V2 image classification with preprocessing, augmentation, evaluation, and interpretability. |
 
-<br/>
+### Data Analysis, Business Intelligence, and Visualization
 
-### Vision-Language Models
+| Repository | What it demonstrates |
+|---|---|
+| [E-commerce Sales Intelligence Dashboard](https://github.com/AIOmarRehan/ecommerce-sales-intelligence-dashboard) | End-to-end analytics with SQL, PostgreSQL, forecasting, segmentation, Streamlit, Plotly, and Power BI. |
+| [HR Analytics Dashboard](https://github.com/AIOmarRehan/hr-analytics-dashboard) | Power BI dashboard with 50 DAX measures, 28 calculated columns, attrition-risk scoring, and workforce insights. |
+| [Data Analysis Portfolio](https://github.com/AIOmarRehan/Omar_Rehan-s_Data_Analysis_Portfolio) | Excel, Power BI, Tableau, Orange, MongoDB, cleaning, visualization, classification, clustering, and NoSQL analytics. |
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h4 align="center"><a href="https://github.com/AIOmarRehan/fine-tuning-qwen2-5-vl-astronomy">Fine-Tuning Qwen2.5-VL for Astronomy</a></h4>
-<p align="center">Fine-tuning Qwen2.5 Vision-Language model on astronomy domain data</p>
-<p align="center">
-<img src="https://img.shields.io/github/stars/AIOmarRehan/fine-tuning-qwen2-5-vl-astronomy?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/forks/AIOmarRehan/fine-tuning-qwen2-5-vl-astronomy?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/languages/top/AIOmarRehan/fine-tuning-qwen2-5-vl-astronomy?style=flat-square&color=a78bfa&labelColor=0d1117"/>
-</p>
-</td>
-<td width="50%" valign="top">
-<h4 align="center"><a href="https://github.com/AIOmarRehan/Unsloth_Llama_3.2_11B_Vision_Instruct_Astronomy">Llama 3.2 11B Vision — Astronomy</a></h4>
-<p align="center">Efficient fine-tuning of Llama 3.2 11B Vision Instruct with Unsloth on astronomy tasks</p>
-<p align="center">
-<img src="https://img.shields.io/github/stars/AIOmarRehan/Unsloth_Llama_3.2_11B_Vision_Instruct_Astronomy?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/forks/AIOmarRehan/Unsloth_Llama_3.2_11B_Vision_Instruct_Astronomy?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/languages/top/AIOmarRehan/Unsloth_Llama_3.2_11B_Vision_Instruct_Astronomy?style=flat-square&color=a78bfa&labelColor=0d1117"/>
-</p>
-</td>
-</tr>
-</table>
+### Full-Stack Applications and Developer Platforms
 
-<br/>
+| Repository | What it demonstrates |
+|---|---|
+| [RehanPulse](https://github.com/AIOmarRehan/RehanPulse) | Real-time developer dashboard combining GitHub, Vercel, Firebase, alerts, and an integrated LLM assistant. |
+| [My Portfolio](https://github.com/AIOmarRehan/My_Portfolio) | Next.js, React, TypeScript, Tailwind, Supabase authentication, admin workflows, and dynamic CRUD operations. |
+| [TerraExplorer](https://github.com/AIOmarRehan/TerraExplorer) | Interactive country exploration with maps, history, dark mode, and Gemini-powered facts and dishes. |
+| [Finance Tracker](https://github.com/AIOmarRehan/Finance-Tracker) | React, Tailwind, and Firebase application for income, expenses, goals, reports, authentication, and real-time data. |
+| [Profile README](https://github.com/AIOmarRehan/AIOmarRehan) | Automated contribution visuals, portfolio presentation, skills, project discovery, and engineering identity. |
 
-### Full-Stack and Web Applications
+### Computer Vision and Deep Learning Experiments
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h4 align="center"><a href="https://github.com/AIOmarRehan/My_Portfolio">My Portfolio</a></h4>
-<p align="center">Personal portfolio website showcasing projects, skills and experience</p>
-<p align="center">
-<img src="https://img.shields.io/github/stars/AIOmarRehan/My_Portfolio?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/forks/AIOmarRehan/My_Portfolio?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/languages/top/AIOmarRehan/My_Portfolio?style=flat-square&color=a78bfa&labelColor=0d1117"/>
-</p>
-</td>
-<td width="50%" valign="top">
-<h4 align="center"><a href="https://github.com/AIOmarRehan/RehanPulse">RehanPulse</a></h4>
-<p align="center">A real-time pulse and activity monitoring web application</p>
-<p align="center">
-<img src="https://img.shields.io/github/stars/AIOmarRehan/RehanPulse?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/forks/AIOmarRehan/RehanPulse?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/languages/top/AIOmarRehan/RehanPulse?style=flat-square&color=a78bfa&labelColor=0d1117"/>
-</p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h4 align="center"><a href="https://github.com/AIOmarRehan/TerraExplorer">TerraExplorer</a></h4>
-<p align="center">Interactive geospatial exploration and visualization web app</p>
-<p align="center">
-<img src="https://img.shields.io/github/stars/AIOmarRehan/TerraExplorer?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/forks/AIOmarRehan/TerraExplorer?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/languages/top/AIOmarRehan/TerraExplorer?style=flat-square&color=a78bfa&labelColor=0d1117"/>
-</p>
-</td>
-<td width="50%" valign="top">
-<h4 align="center"><a href="https://github.com/AIOmarRehan/Finance-Tracker">Finance Tracker</a></h4>
-<p align="center">Personal finance management app for tracking income, expenses and budgets</p>
-<p align="center">
-<img src="https://img.shields.io/github/stars/AIOmarRehan/Finance-Tracker?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/forks/AIOmarRehan/Finance-Tracker?style=flat-square&color=a78bfa&labelColor=0d1117&logo=github&logoColor=a78bfa"/>
-<img src="https://img.shields.io/github/languages/top/AIOmarRehan/Finance-Tracker?style=flat-square&color=a78bfa&labelColor=0d1117"/>
-</p>
-</td>
-</tr>
-</table>
-
-</div>
+| Repository | What it demonstrates |
+|---|---|
+| [Cats vs Dogs — InceptionV3](https://github.com/AIOmarRehan/High-Accuracy-Cats-vs-Dogs-InceptionV3) | Transfer learning, EDA, robust `tf.data` preprocessing, and approximately 99% reported test accuracy. |
+| [Animal Image Classification](https://github.com/AIOmarRehan/Animal-Image-Classification-Using-InceptionV3) | Image-quality checks for corrupted, duplicated, bright, and mislabeled samples before training. |
+| [CNN Autoencoder for Image Denoising](https://github.com/AIOmarRehan/CNN_Autoencoder_For_Image_Denoising) | U-Net-style convolutional autoencoder for denoising images before classification. |
+| [CNN vs Transformer vs Xception](https://github.com/AIOmarRehan/PyTorch_CNN_vs_Transformer_vs_Xception) | Comparative evaluation of a custom CNN, DeiT-Tiny, and Xception on vehicle data. |
+| [Sports Ball Classification](https://github.com/AIOmarRehan/Sports_Ball_Classification_Inceptionv3) | InceptionV3 transfer learning, balanced data, two-stage training, metrics, and FastAPI deployment. |
+| [Audio Classification with Mel Spectrogram CNNs](https://github.com/AIOmarRehan/Audio-Classification-Raw-Audio-to-Mel-Spectrogram-CNNs) | Audio preprocessing, augmentation, Mel spectrogram generation, CNN training, and evaluation. |
 
 <br/>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -340,7 +249,7 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 &nbsp;
 <a href="https://huggingface.co/AIOmarRehan"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/></a>
 &nbsp;
-<a href="https://public.tableau.com/app/profile/omar.rehan"><img src="https://cdn.simpleicons.org/tableau/E97627" width="40" height="40" alt="Tableau Public"/></a>
+<a href="https://public.tableau.com/app/profile/omar.rehan"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Public"/></a>
 
 <br/><br/>
 
