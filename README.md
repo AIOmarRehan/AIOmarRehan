@@ -135,7 +135,7 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 
 <td align="center" valign="top" width="20%" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px;">
 
-### DevOps and Tools
+### DevOps
 
 <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" /><br/><br/>
 
