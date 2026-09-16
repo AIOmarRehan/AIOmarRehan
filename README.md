@@ -78,6 +78,12 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 
 ### Data Analysis
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib icon"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter icon"/>
+<br/><br/>
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <br/>
@@ -175,9 +181,8 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 
 <br/><br/>
 
-<a href="https://github.com/AIOmarRehan?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AIOmarRehan&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used programming languages" width="45%" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AIOmarRehan&theme=github_dark" alt="Repositories by programming language" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AIOmarRehan&theme=github_dark" alt="GitHub profile statistics" width="45%" />
 
 <br/><br/>
 
