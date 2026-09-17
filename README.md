@@ -78,10 +78,10 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 
 ### Data Analysis
 
-<div style="display: flex; justify-content: center; gap: 8px; margin-bottom: 16px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" style="width: 48px; height: 48px; background-color: #1a1b26; border-radius: 10px; padding: 6px; box-sizing: border-box;" alt="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" style="width: 48px; height: 48px; background-color: #1a1b26; border-radius: 10px; padding: 6px; box-sizing: border-box;" alt="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" style="width: 48px; height: 48px; background-color: #1a1b26; border-radius: 10px; padding: 6px; box-sizing: border-box;" alt="Jupyter"/>
+<div style="display: flex; justify-content: center; align-items: center; gap: 6px; margin-bottom: 16px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" style="width: 40px; height: 40px; background-color: #18181b; border-radius: 10px; padding: 5px; box-sizing: border-box;" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" style="width: 40px; height: 40px; background-color: #18181b; border-radius: 10px; padding: 5px; box-sizing: border-box;" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="40" height="40" style="width: 40px; height: 40px; background-color: #18181b; border-radius: 10px; padding: 5px; box-sizing: border-box;" alt="Jupyter"/>
 </div>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
@@ -124,6 +124,48 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 </td>
 
 <td align="center" valign="top" width="20%" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px;">
+
+### Web and Cloud
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,firebase&theme=dark" /><br/><br/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
+<br/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</td>
+
+<td align="center" valign="top" width="20%" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px;">
+
+### DevOps
+
+<img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" /><br/><br/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gradio-FF4B4B?style=for-the-badge&logo=gradio&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### Web and Cloud
 
