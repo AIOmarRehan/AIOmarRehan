@@ -18,11 +18,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Configure Git Committer
-        run: |
-          git config --global user.name "Omar Rehan"
-          git config --global user.email "ai.omar.rehan@gmail.com"
-
       - name: Generate GitHub Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
@@ -30,4 +25,10 @@ jobs:
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "main"
-          COMMIT_MESSAGE: "Generate profile summary cards"
+
+      - name: Override Bot Commit Author
+        run: |
+          git config user.name "AIOmarRehan"
+          git config user.email "ai.omar.rehan@gmail.com"
+          git commit --amend --author="Omar Rehan <ai.omar.rehan@gmail.com>" --no-edit || true
+          git push --force-with-lease origin main
