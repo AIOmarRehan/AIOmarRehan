@@ -78,11 +78,11 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 
 ### Data Analysis
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 6px; margin-bottom: 16px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 6px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40" style="width: 40px; height: 40px; background-color: #18181b; border-radius: 10px; padding: 5px; box-sizing: border-box;" alt="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" style="width: 40px; height: 40px; background-color: #18181b; border-radius: 10px; padding: 5px; box-sizing: border-box;" alt="Pandas"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="40" height="40" style="width: 40px; height: 40px; background-color: #18181b; border-radius: 10px; padding: 5px; box-sizing: border-box;" alt="Jupyter"/>
-</div>
+</div><br/><br/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
@@ -96,7 +96,6 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" alt="Tableau"/>
 
 </td>
-
 <td align="center" valign="top" width="20%" style="border: 1px solid #4c1d95; border-radius: 12px; padding: 12px;">
 
 ### Languages
