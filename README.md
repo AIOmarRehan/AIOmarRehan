@@ -78,19 +78,22 @@ Currently:  "Seeking opportunities while building AI and Full Stack projects"
 
 ### Data Analysis
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
-     width="48" height="48" alt="NumPy"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
-     width="48" height="48" alt="Pandas"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
-     width="48" height="48" alt="Jupyter"/>
-
-<br/><br/>
+<div style="display: flex; justify-content: center; gap: 8px; margin-bottom: 16px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="48" height="48" style="width: 48px; height: 48px; background-color: #1a1b26; border-radius: 10px; padding: 6px; box-sizing: border-box;" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="48" height="48" style="width: 48px; height: 48px; background-color: #1a1b26; border-radius: 10px; padding: 6px; box-sizing: border-box;" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" style="width: 48px; height: 48px; background-color: #1a1b26; border-radius: 10px; padding: 6px; box-sizing: border-box;" alt="Jupyter"/>
+</div>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 <br/>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" alt="Matplotlib"/>
+<br/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge" alt="Seaborn"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&labelColor=black" alt="Power BI"/>
+<br/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge" alt="Tableau"/>
 
 </td>
 
