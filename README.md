@@ -31,6 +31,11 @@
   <img src="https://komarev.com/ghpvc/?username=AIOmarRehan&style=for-the-badge&color=7c3aed&label=VIEWS" alt="Profile Views" />
 </p>
 
+<!-- Sponsor Button (compact) -->
+<a href="https://paypal.me/AIOmarRehan">
+  <img src="assets/sponsor-heart-compact.svg" width="240" alt="Sponsor AIOmarRehan on PayPal" />
+</a>
+
 </div>
 
 ---
@@ -90,6 +95,7 @@ Philosophy
 
 <!-- Featured Projects -->
 <div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
   <h2>Featured Engineering Projects</h2>
   <p>Production systems, multimodal research architectures, and scalable full-stack platforms.</p>
 </div>
@@ -204,6 +210,7 @@ End-to-end commercial analytics platform integrating a relational SQL warehouse,
 
 <!-- Project Directory -->
 <div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
   <h2>Project Directory</h2>
   <p>Repository index categorized by domain and technical specialization. Click any section to expand.</p>
 </div>
@@ -268,6 +275,7 @@ End-to-end commercial analytics platform integrating a relational SQL warehouse,
 
 <!-- Technical Stack -->
 <div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
   <h2>Technical Competencies</h2>
   <p>Languages, frameworks, cloud platforms, and engineering toolsets.</p>
 </div>
@@ -358,6 +366,7 @@ End-to-end commercial analytics platform integrating a relational SQL warehouse,
 
 <!-- GitHub Analytics -->
 <div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
   <h2>GitHub Telemetry & Activity</h2>
   <p>Real-time metrics powered by automated GitHub Actions with 100% uptime.</p>
 
@@ -393,8 +402,22 @@ End-to-end commercial analytics platform integrating a relational SQL warehouse,
 
 <br/>
 
+<!-- Support / Sponsor -->
+<div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
+  <h2>Support My Work</h2>
+  <p>If my open-source projects have helped you, consider supporting my work.</p>
+
+  <a href="https://paypal.me/AIOmarRehan">
+    <img src="assets/sponsor-heart.svg" width="468" alt="Sponsor AIOmarRehan on PayPal" />
+  </a>
+</div>
+
+<br/>
+
 <!-- Contact and Footer -->
 <div align="center">
+  <img src="assets/divider.svg" width="100%" alt="" />
   <h2>Contact & Professional Links</h2>
   <p>Open for AI Engineering, Computer Vision, and Full-Stack development roles.</p>
 

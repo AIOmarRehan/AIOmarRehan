@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="8" viewBox="0 0 900 8" role="img" aria-labelledby="dvt dvd">
+<title id="dvt">Section divider</title>
+<desc id="dvd">Violet to cyan gradient line separating README sections.</desc>
+<style>.dvs{animation:dvm 7s ease-in-out infinite}@keyframes dvm{0%{transform:translate(-160px,0px)}60%,100%{transform:translate(940px,0px)}}@media (prefers-reduced-motion:reduce){.dvs{animation:none;opacity:0}}</style>
+<defs><linearGradient id="dvg" x1="0" x2="1"><stop offset="0" stop-color="#4c1d95" stop-opacity="0"/><stop offset=".18" stop-color="#4c1d95"/><stop offset=".42" stop-color="#7c3aed"/><stop offset=".64" stop-color="#a78bfa"/><stop offset=".84" stop-color="#38bdf8"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/></linearGradient><linearGradient id="dvh" x1="0" x2="1"><stop offset="0" stop-color="#ffffff" stop-opacity="0"/><stop offset=".5" stop-color="#ffffff" stop-opacity=".85"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></linearGradient><clipPath id="dvc"><rect x="0" y="3" width="900" height="2" rx="1"/></clipPath></defs>
+<rect x="0" y="3" width="900" height="2" rx="1" fill="url(#dvg)"/>
+<g clip-path="url(#dvc)"><rect class="dvs" x="0" y="0" width="120" height="8" fill="url(#dvh)"/></g>
+</svg>
