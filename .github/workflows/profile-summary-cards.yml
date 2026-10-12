@@ -1,0 +1,34 @@
+name: GitHub-Profile-Summary-Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate GitHub Profile Summary Cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+
+      - name: Override Bot Commit Author
+        run: |
+          git config user.name "AIOmarRehan"
+          git config user.email "ai.omar.rehan@gmail.com"
+          git commit --amend --author="Omar Rehan <ai.omar.rehan@gmail.com>" --no-edit || true
+          git push --force-with-lease origin main
